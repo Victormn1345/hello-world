@@ -1,3 +1,5 @@
 # hello-world
 Learning how to use GitHub
-Trying to learn new things and code cool things
+Whoops I messed up
+I wrote in the master branch
+
